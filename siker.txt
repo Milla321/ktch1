@@ -1,0 +1,136 @@
+sorszám	modul	cím			szerző
+1.	1142-06	Adatbázis alapismeretek Kupcsikné Fitus Ilona
+2.	1142-06	Adatbázis-kezelés       Olajos Zsolt 
+3.	1142-07	Adatbázis - SQL nyelv   Kupcsikné Fitus Ilona
+4.	0917-06	Analóg elektronikai áramkörök 
+Orgoványi József 
+5.	0917-06	Digitális áramkörök
+Pszota József 
+6.	2323-06	Egészséges életmód, életvitel
+Holczinger Istvánné 
+7.	2323-06	Lelki egészség
+Holczinger Istvánné 
+8.	0908-06	Elektronika 
+Orgoványi József
+9.	0908-06	Elektrotechnika 
+Rauscher István 
+10.	0908-06	Elektrotechnika II
+Rauscher István 
+11.	0908-06	Elektrotechnika - Feladattár
+Rauscher István 
+12.	0917-06	Elektrotechnikai alapismeretek 
+Rauscher István
+13.	 	Élet-, és pályatervezés, karrierépítés
+Vitéz Gyula 
+14.	0924-06	A fénytávközlés alapfogalmai és kábelei
+Vígh Sándor 
+15.	0924-06	Hálózatok fenntartása és bontása
+Vígh Sándor 
+16.	1168-06	Hardverismeretek
+Száldobágyi Zsigmond 
+17.	1142-06	Információ és kommunikáció I.
+Pölöskeiné Hegedűs Helén
+18.	 	Információ és kommunikáció II.
+Pölöskeiné Hegedűs Helén
+19.	1142-07	Informatikai angol - IT English
+Fazekas Katalin 
+20.	0924-06	Integrált kábelezés
+Vígh Sándor 
+21.	1142-06	IT alapismeretek I.
+Olajos Zsolt 
+22.	1142-06	IT alapismeretek II.
+Olajos Zsolt 
+23.	1188-06	Jogi alapismeretek
+dr. Kalocsay Gergely 
+24.	0924-06	Kábeltelevíziós és szélessávú hálózatok - Analó
+Prusinszki István 
+25.	0924-06	Kapcsolástechnika
+Érdi Péter 
+26.	1181-06	A kommunikáció alapjai
+dr. Raátz Judit 
+27.	0917-06	Logikai áramkörök
+Pszota József 
+28.	1143-06	Marketing alapismeretek
+Ambrus Anita 
+29.	1142-06	Minőségbiztosítás
+dr. Komáromi László 
+30.	1142-06	Multimédia nem médiásoknak
+Károly Gabriella 
+31.	 	Műszaki matematika I.
+Kupcsikné Fitus Ilona 
+32.	 	Műszaki matematika I. - Lineráris algebra - Péld
+Kupcsikné Fitus Ilona 
+33.	 	Műszaki matematika II. - Függvénytan
+Kupcsikné Fitus Ilona 
+34.	 	Műszaki matematika II. Valószínűségszámítás
+Kupcsikné Fitus Ilona 
+35.	1188-06	Művészettörténet I.
+Kőhegyi Gabriella
+36.	1188-06	Művészettörténet II.
+Kőhegyi Gabriella
+37.	1188-06	Objektumorientált tervezés
+Rétsághy Zsolt, Lajtos Gábor
+38.	1142-06	Operációs rendszerek I.
+Lukács János 
+39.	1142-06	Operációs rendszerek II.
+Lukács János 
+40.	1142-06	Prezentációkészítés I.
+Pölöskeiné Hegedűs Helén 
+41.	1142-06	Prezentációkészítés II.
+Pölöskeiné Hegedűs Helén 
+42.	1188-06	Programtervezési módszertan
+Hartyányi Mária 
+43.	1143-06	Projektirányítás I.
+Pölöskeiné Hegedűs Helén 
+44.	1143-06	Projektirányítás II.
+Pölöskeiné Hegedűs Helén 
+45.	1459-06	A rendezvényszervező munka alapjai I.
+Hillinger Zsuzsanna 
+46.	1143-06	Szervezési és vezetési ismeretek
+Némedi János
+47.	1188-06	Szervezési ismeretek I.
+Dr. Sediviné Balassa Ildikó
+Pölöskeiné Hegedüs Helén 
+48.	1188-06	Szervezési ismeretek II.
+Dr. Sediviné Balassa Ildikó
+Pölöskeiné Hegedüs Helén 
+49.	1188-06	Szervezési ismeretek III.
+Dr. Sediviné Balassa Ildikó
+Pölöskeiné Hegedüs Helén 
+50.	1188-06	Szerzői jog, szoftverjog, internetjog
+dr. Kalocsay Gergely 
+51.	1188-06	Szerzői rendszerek I.
+Weimper Ferenc 
+52.	1188-06	Szerzői rendszerek II.
+Weimper Ferenc 
+53.	1168-06	Szoftverismeretek, számítógép hálózatok
+Száldobágyi Zsigmond 
+54.	0924-06	Szolgáltatási ismeretek
+Érdi Péter 
+55.	1142-06	Szövegszerkesztés I.
+Csoór Gabriella 
+56.	1142-06	Szövegszerkesztés II.
+Csoór Gabriella 
+57.	1142-06	Táblázatkezelés I.
+Bornemissza Zsigmond 
+58.	1142-06	Táblázatkezelés II.
+Bornemissza Zsigmond 
+59.	2656-06	Tárgyalástechnika
+dr. Raátz Judit 
+60.	0924-06	Távbeszélőtechnika
+Érdi Péter 
+61.	0924-06	Távközlő kábelek és vezetékek
+Miterli Zoltán 
+62.	1188-06	Design és tipográfiai alapok - Tervezőgrafika I.
+Orgoványi Gábor 
+63.	1188-06	Design és tipográfiai alapok - Tervezőgrafika II.
+Orgoványi Gábor 
+64.	 	Vállalkozási ismeretek
+TRIZEL Szolgáltató és Kereskedelmi Kft 
+65.	0924-06	Vezetékelmélet és kábelkiegyenlítés
+Miterli Zoltán 
+66.	0924-06	Vezetékes távközlési hálózatok
+Vígh Sándor 
+67.	0917-06	Villamos rajzok
+Molnár László
+
